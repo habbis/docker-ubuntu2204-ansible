@@ -1,4 +1,4 @@
-# Ubuntu 20.04 LTS (Focal Fossa) Ansible Test Image
+# Ubuntu 22.04 LTS (Jammy Jellyfish) Ansible Test Image
 
 This is based on [Jeff Geerling](https://ansible.jeffgeerling.com/) docker config.
 
@@ -23,7 +23,7 @@ This image is built on Docker Hub automatically any time the upstream OS contain
 
   1. [Install Docker](https://docs.docker.com/install/).
   2. `cd` into this directory.
-  3. Run `docker build -t ubuntu2004-ansible .`
+  3. Run `docker build -t docker-ubuntu2204-ansible .`
 
 ## How to Use
 
