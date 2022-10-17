@@ -5,7 +5,7 @@ This is based on [Jeff Geerling](https://ansible.jeffgeerling.com/) docker confi
 Thanks to him for his open source work and here is his [site](https://www.jeffgeerling.com/).
 
 
-[![CI](https://github.com/habbis/docker-2204-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/habbis/docker-2204-ansible) [![Docker pulls](https://img.shields.io/docker/pulls/habbis0/docker-ubuntu2204-ansible)](https://hub.docker.com/r/habbis0/docker-2204-ansible/)
+[![CI](https://github.com/habbis/docker-ubuntu2204-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/habbis/docker-ubuntu2204-ansible) [![Docker pulls](https://img.shields.io/docker/pulls/habbis0/docker-ubuntu2204-ansible)](https://hub.docker.com/r/habbis0/docker-ubuntu2204-ansible/)
 
 Ubuntu 22.04 LTS (Focal Fossa) Docker container for Ansible playbook and role testing.
 
