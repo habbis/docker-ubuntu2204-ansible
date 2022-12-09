@@ -45,4 +45,5 @@ RUN rm -f /lib/systemd/system/systemd*udev* \
 
 #VOLUME ["/sys/fs/cgroup", "/tmp", "/run"]
 #CMD ["/lib/systemd/systemd"]
-ENTRYPOINT ["/bin/bash"]
+#ENTRYPOINT ["/bin/bash"]
+ENTRYPOINT ["tail", "-f", "/dev/null"]
